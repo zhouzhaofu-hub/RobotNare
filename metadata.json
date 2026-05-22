@@ -1,0 +1,11 @@
+{
+  "name": "RobotNara-V2.0",
+  "description": "专业、温情的智慧养老守护平台，连接子女与长辈。\n升级到V1.5，升级到2.0后更换平台",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
